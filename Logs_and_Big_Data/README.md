@@ -1,4 +1,4 @@
-# ByteMyCode_Academy
+# UBS ByteMyCode: Academy
 Examples  &amp; materials related with my _UBS ByteMyCode: Academy_ discourses
 
 ## Write Your Future: Logs and Big Data
