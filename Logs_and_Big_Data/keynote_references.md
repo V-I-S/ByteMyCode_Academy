@@ -2,7 +2,7 @@
 
 ## References
 
-􏰥* Syslog RFC: https://tools.ietf.org/html/rfc5424
+* Syslog RFC: https://tools.ietf.org/html/rfc5424
 * Java GC logger: https://dzone.com/articles/what-is-garbage-collection-log-how-to-enable-ampnb
 * Good practices in logs formatting: https://www.scalyr.com/blog/log-formatting-best-practices-readable/
 *􏰥 Minimal set of audit trial entries to be logged: https://security.berkeley.edu/security-audit-logging-guideline
