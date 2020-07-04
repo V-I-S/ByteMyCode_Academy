@@ -1,0 +1,4 @@
+server:
+  name: kibana
+  host: "0"
+  port: 5601
