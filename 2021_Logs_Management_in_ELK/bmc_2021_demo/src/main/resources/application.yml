@@ -1,0 +1,10 @@
+spring.application.name: bmc_2021_demo
+logging.level:
+  root: INFO
+  com.patrykstopyra.bmc2021demo: DEBUG
+
+server.tomcat:
+  basedir: .
+  accesslog:
+    enabled: true
+    directory: logs
